@@ -1,9 +1,8 @@
 # tof_tof
 
-Projet Option Musique ENSEA : modification des caractéristiques d'un signal via l'utilisation d'un capteur ToF (Time to Fly) et ultrason
-
+Projet Option Musique ENSEA : modification des caractéristiques d'un signal via l'utilisation d'un capteur ToF (Time to Fly) et ultrason  
 Membres : Guillaume PORTEJOIE, Mathis HOCHMUTH, Antoine KERNEIS
-----------
+---------------
 ### Objectifs
 
 * Ce système doit respecter les normes Eurorack pour pouvoir être monté sur rack. 
